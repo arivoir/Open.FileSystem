@@ -1,10 +1,10 @@
-﻿using Open.FileSystem;
+﻿using Open.FileSystemAsync;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public static class Path
     {

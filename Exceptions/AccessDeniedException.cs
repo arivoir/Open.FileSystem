@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class AccessDeniedException : Exception
     {

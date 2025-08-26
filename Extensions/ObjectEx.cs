@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public static class ObjectEx
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public interface IAuthenticationBroker
     {

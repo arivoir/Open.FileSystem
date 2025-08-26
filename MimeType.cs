@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class MimeType
     {

@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     //public class WrapList<T> : WrapCollectionView<T>
     //    where T : class

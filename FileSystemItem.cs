@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class FileSystemItem
     {

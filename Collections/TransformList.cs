@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class TransformList<S, T> : C1WrapDataCollection<S, T>
         where S : class

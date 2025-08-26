@@ -5,7 +5,7 @@ using System.Collections.Specialized;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class CursorList<T> : C1CursorDataCollection<T>, ISupportEditing<T>
         where T : class

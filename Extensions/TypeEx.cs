@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     /// <summary>
     /// The <see cref="TypeEx"/> class provides useful extension methods for the <see cref="System.Type"/> class.

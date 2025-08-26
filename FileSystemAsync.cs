@@ -9,7 +9,7 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     /// <summary>
     /// Implements a file system which provides an asynchronous api to the visual components.

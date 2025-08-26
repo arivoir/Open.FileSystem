@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class LocalFileSystem : FileSystemAsync
     {
@@ -70,7 +70,7 @@ namespace Open.FileSystem
             {
                 stream = await fileInfo.OpenWriteAsync();
                 await fileStream.CopyToAsync(stream, progress: progress, cancellationToken: cancellationToken);
-                return new FileSystem.FileSystemFile(fileInfo.Name, fileInfo.Name, true);
+                return new Open.FileSystemAsync.FileSystemFile(fileInfo.Name, fileInfo.Name, true);
             }
             catch
             {

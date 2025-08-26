@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public static class ExpressionEx
     {

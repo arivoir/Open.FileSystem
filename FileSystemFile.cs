@@ -1,4 +1,4 @@
-﻿namespace Open.FileSystem
+﻿namespace Open.FileSystemAsync
 {
     public class FileSystemFile : FileSystemItem
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class ReadOnlyCollectionView<T> : C1WrapDataCollection<T>
         where T : class

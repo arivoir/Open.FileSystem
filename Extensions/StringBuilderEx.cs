@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     internal static class StringBuilderEx
     {

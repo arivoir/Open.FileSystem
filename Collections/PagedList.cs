@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Open.FileSystem
+namespace Open.FileSystemAsync
 {
     public class PagedList<T> : C1DataCollectionBase<T>, ISupportAsyncLoading<T>, ISupportEditing<T>
         where T : class
